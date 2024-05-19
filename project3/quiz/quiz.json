@@ -1,0 +1,20 @@
+[
+    {
+        "country": "Liechtenstein",
+        "capital": "Vaduz"
+    },
+    {
+        "country": "France",
+        "capital": "Paris"
+    },
+
+    {
+        "country": "Peru",
+        "capital": "Lima"
+    },
+
+    {
+        "country": "Russia",
+        "capital": "Moscow"
+    }
+]
