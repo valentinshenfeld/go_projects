@@ -15,6 +15,7 @@ var secretKey = flag.String("secret", "", "Your secret key. Must contain at leas
 func main() {
 	flag.Parse()
 
+	// ...
 	if len(*secretKey) == 0 {
 		fmt.Fprintln(os.Stderr, "No secret is provided! Exiting now...")
 		os.Exit(1)
